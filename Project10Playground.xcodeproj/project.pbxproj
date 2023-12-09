@@ -11,6 +11,9 @@
 		40C560BD2B22B3CB009E887D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C560BC2B22B3CB009E887D /* ContentView.swift */; };
 		40C560BF2B22B3CD009E887D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 40C560BE2B22B3CD009E887D /* Assets.xcassets */; };
 		40C560C22B22B3CD009E887D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 40C560C12B22B3CD009E887D /* Preview Assets.xcassets */; };
+		40C560C92B22B8BA009E887D /* AsyncImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C560C82B22B8BA009E887D /* AsyncImageView.swift */; };
+		40C560CB2B22BAF6009E887D /* ValidateFormView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C560CA2B22BAF6009E887D /* ValidateFormView.swift */; };
+		40C560CD2B240D8F009E887D /* CodableObservableObjectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C560CC2B240D8F009E887D /* CodableObservableObjectView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +22,9 @@
 		40C560BC2B22B3CB009E887D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		40C560BE2B22B3CD009E887D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		40C560C12B22B3CD009E887D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		40C560C82B22B8BA009E887D /* AsyncImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImageView.swift; sourceTree = "<group>"; };
+		40C560CA2B22BAF6009E887D /* ValidateFormView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidateFormView.swift; sourceTree = "<group>"; };
+		40C560CC2B240D8F009E887D /* CodableObservableObjectView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableObservableObjectView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +59,9 @@
 			children = (
 				40C560BA2B22B3CB009E887D /* Project10PlaygroundApp.swift */,
 				40C560BC2B22B3CB009E887D /* ContentView.swift */,
+				40C560C82B22B8BA009E887D /* AsyncImageView.swift */,
+				40C560CA2B22BAF6009E887D /* ValidateFormView.swift */,
+				40C560CC2B240D8F009E887D /* CodableObservableObjectView.swift */,
 				40C560BE2B22B3CD009E887D /* Assets.xcassets */,
 				40C560C02B22B3CD009E887D /* Preview Content */,
 			);
@@ -139,6 +148,9 @@
 			files = (
 				40C560BD2B22B3CB009E887D /* ContentView.swift in Sources */,
 				40C560BB2B22B3CB009E887D /* Project10PlaygroundApp.swift in Sources */,
+				40C560CB2B22BAF6009E887D /* ValidateFormView.swift in Sources */,
+				40C560CD2B240D8F009E887D /* CodableObservableObjectView.swift in Sources */,
+				40C560C92B22B8BA009E887D /* AsyncImageView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
