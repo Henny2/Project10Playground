@@ -14,6 +14,7 @@
 		40C560C92B22B8BA009E887D /* AsyncImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C560C82B22B8BA009E887D /* AsyncImageView.swift */; };
 		40C560CB2B22BAF6009E887D /* ValidateFormView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C560CA2B22BAF6009E887D /* ValidateFormView.swift */; };
 		40C560CD2B240D8F009E887D /* CodableObservableObjectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C560CC2B240D8F009E887D /* CodableObservableObjectView.swift */; };
+		40C560D32B241B02009E887D /* HapticEffectsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C560D22B241B02009E887D /* HapticEffectsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		40C560C82B22B8BA009E887D /* AsyncImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImageView.swift; sourceTree = "<group>"; };
 		40C560CA2B22BAF6009E887D /* ValidateFormView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidateFormView.swift; sourceTree = "<group>"; };
 		40C560CC2B240D8F009E887D /* CodableObservableObjectView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableObservableObjectView.swift; sourceTree = "<group>"; };
+		40C560D22B241B02009E887D /* HapticEffectsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticEffectsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				40C560C82B22B8BA009E887D /* AsyncImageView.swift */,
 				40C560CA2B22BAF6009E887D /* ValidateFormView.swift */,
 				40C560CC2B240D8F009E887D /* CodableObservableObjectView.swift */,
+				40C560D22B241B02009E887D /* HapticEffectsView.swift */,
 				40C560BE2B22B3CD009E887D /* Assets.xcassets */,
 				40C560C02B22B3CD009E887D /* Preview Content */,
 			);
@@ -148,6 +151,7 @@
 			files = (
 				40C560BD2B22B3CB009E887D /* ContentView.swift in Sources */,
 				40C560BB2B22B3CB009E887D /* Project10PlaygroundApp.swift in Sources */,
+				40C560D32B241B02009E887D /* HapticEffectsView.swift in Sources */,
 				40C560CB2B22BAF6009E887D /* ValidateFormView.swift in Sources */,
 				40C560CD2B240D8F009E887D /* CodableObservableObjectView.swift in Sources */,
 				40C560C92B22B8BA009E887D /* AsyncImageView.swift in Sources */,
@@ -284,6 +288,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Project10Playground/Preview Content\"";
+				DEVELOPMENT_TEAM = 79BXDJ3TV4;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -312,6 +317,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Project10Playground/Preview Content\"";
+				DEVELOPMENT_TEAM = 79BXDJ3TV4;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;

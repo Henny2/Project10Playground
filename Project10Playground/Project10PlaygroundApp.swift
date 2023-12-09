@@ -11,7 +11,7 @@ import SwiftUI
 struct Project10PlaygroundApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HapticEffectsView()
         }
     }
 }
